@@ -8,6 +8,13 @@ layout: post
 
 ## 📞 客服联系方式
 
+### Telegram 客服（首选）
+
+| 方式 | 联系方式 |
+|:-----|:---------|
+| 用户客服 | [@smile147](https://t.me/smile147) |
+| 双向机器人 | [@WX666_bot](https://t.me/WX666_bot) |
+
 ### 平台内客服
 
 在小U平台内：**我的 → 售后客服**
@@ -19,12 +26,11 @@ layout: post
 
 ---
 
-## 💬 官方群组
+## 💬 交流群组
 
 | 群组 | 链接 |
 |:-----|:-----|
-| 官方交流大群 | [https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou) |
-| 备用群 | [https://t.me/xiaouzk](https://t.me/xiaouzk) |
+| 交流群 | [https://t.me/smile_6688](https://t.me/smile_6688) |
 
 ---
 
@@ -34,7 +40,6 @@ layout: post
 |:-----|:-----|
 | 网页端注册 | [点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom) |
 | 备用网址 | [备用注册](https://www.xiaouzk.org/#/reg?code=7nbJWbom) |
-| 安卓APP | [下载链接](http://app.xiaouzk.org/xuzk.apk) |
 
 ---
 
