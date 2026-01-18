@@ -1,0 +1,74 @@
+# Configurations
+title:            小U折扣教程中心
+longtitle:        小U折扣 - 优惠充值代还平台
+author:           小U折扣官方
+email:            support@xiaouzk.org
+description: >
+  小U折扣平台官方教程文档，提供话费充值、电费充值、信用卡代还等业务的详细操作指南。
+
+version:          1.0
+gitbook_version:  3.2.3
+
+url:              'https://smile1288.github.io'
+baseurl:          '/xiaou'
+rss:              RSS
+
+# bootstrap: use the remote theme for the site itself
+remote_theme: sighingnow/jekyll-gitbook
+
+toc:
+  enabled: true
+  h_min:   1
+  h_max:   3
+
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path:     /assets/gitbook/images/favicon.ico
+
+# markdown render engine.
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+syntax_highlighter_style: colorful
+
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
+
+# Permalinks
+permalink:                /:categories/:year-:month-:day-:title:output_ext
+
+# Disqus comments
+# disqushandler:            sighingnow
+
+exclude:
+  - _drafts
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
+
+ordered_collections:
+  - posts
+  - pages
+  - others
+
+page_width: 800px
+
+destination:      ./_site
+incremental:      false
+regenerate:       true
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
