@@ -23,8 +23,6 @@ layout: post
 | 官方邀请码 | `7nbJWbom` |
 | 网页端注册 | [点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom) |
 | 备用网址 | [备用注册](https://www.xiaouzk.org/#/reg?code=7nbJWbom) |
-| 安卓APP | [下载链接](http://app.xiaouzk.org/xuzk.apk) |
-| 苹果APP | 等待上线 |
 
 > ##### ⚠️ 关于备用网址
 >

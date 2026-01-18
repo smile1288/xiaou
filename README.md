@@ -1,5 +1,5 @@
 # 小U折扣教程中心
-
+# [点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 > 欢迎使用小U折扣平台！本教程将帮助你快速上手。
 
 ---
@@ -55,7 +55,8 @@
 
 - **注册链接**：[点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 - **交流群**：[Telegram 群组](https://t.me/smile_6688)
-- **客服**：[@smile147](https://t.me/smile147)
+- **代理上游客服**：[@smile147](https://t.me/smile147)
+- **双向机器人**：[@WX666_bot](https://t.me/WX666_bot)
 
 ---
 
