@@ -32,6 +32,7 @@ layout: post
 | 群组 | 链接 |
 |:-----|:-----|
 | 小U折扣官方群 | [https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou) |
+| 小U折扣备用群 | [https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou2) |
 | 微笑代理交流群 | [https://t.me/smile_6688](https://t.me/smile_6688) |
 
 ---
