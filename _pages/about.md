@@ -37,12 +37,13 @@ layout: post
 
 ## 🔗 快速开始
 
-1. [注册账号](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
+1. [快速注册账号](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 2. 激活代理
 3. 开始赚钱！
 
 > ##### 💬 加入社群
 >
 > 官方交流群：[https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou)
+> 
 > 微笑交流群：[https://t.me/smile_6688](https://t.me/smile_6688)
 {: .block-tip }
