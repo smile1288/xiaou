@@ -12,6 +12,7 @@ layout: post
 
 | 方式 | 联系方式 |
 |:-----|:---------|
+| 小U官方客服 | 请找官方群里的管理 |
 | 微笑代理客服 | [@smile147](https://t.me/smile147) |
 | 双向机器人 | [@WX666_bot](https://t.me/WX666_bot) |
 
@@ -30,8 +31,8 @@ layout: post
 
 | 群组 | 链接 |
 |:-----|:-----|
-| 小U官方群 | [https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou) |
-| 微笑代理群 | [https://t.me/smile_6688](https://t.me/smile_6688) |
+| 小U折扣官方群 | [https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou) |
+| 微笑代理交流群 | [https://t.me/smile_6688](https://t.me/smile_6688) |
 
 ---
 
