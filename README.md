@@ -1,3 +1,6 @@
+---
+title: 小U折扣教程文档(微笑)
+---
 # [点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 
 > 欢迎使用小U折扣平台！本教程将帮助你快速上手。
