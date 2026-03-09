@@ -59,7 +59,8 @@ permalink: /
 ## 🔗 快速入口
 
 - **注册链接**：[点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
-- **交流群**：[Telegram 群组](https://t.me/smile_6688)
+- **小U折扣官方群**：[Telegram 群组](https://t.me/xiaoUzhekou)
+- **微笑代理交流群**：[Telegram 群组](https://t.me/smile_6688)
 - **代理上游客服**：[@smile147](https://t.me/smile147)
 - **双向机器人**：[@WX666_bot](https://t.me/WX666_bot)
 
