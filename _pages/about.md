@@ -43,5 +43,6 @@ layout: post
 
 > ##### 💬 加入社群
 >
-> 官方交流群：[https://t.me/smile_6688](https://t.me/smile_6688)
+> 官方交流群：[https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou)
+> 微笑交流群：[https://t.me/smile_6688](https://t.me/smile_6688)
 {: .block-tip }
