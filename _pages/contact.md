@@ -12,7 +12,7 @@ layout: post
 
 | 方式 | 联系方式 |
 |:-----|:---------|
-| 代理上游客服 | [@smile147](https://t.me/smile147) |
+| 微笑代理客服 | [@smile147](https://t.me/smile147) |
 | 双向机器人 | [@WX666_bot](https://t.me/WX666_bot) |
 
 ### 平台内客服
@@ -30,7 +30,8 @@ layout: post
 
 | 群组 | 链接 |
 |:-----|:-----|
-| 交流群 | [https://t.me/smile_6688](https://t.me/smile_6688) |
+| 小U官方群 | [https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou) |
+| 微笑代理群 | [https://t.me/smile_6688](https://t.me/smile_6688) |
 
 ---
 
