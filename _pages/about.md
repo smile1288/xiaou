@@ -37,7 +37,7 @@ layout: post
 
 ## 🔗 快速开始
 
-1. [快速注册账号](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
+1. [快速注册账号](https://h5.xiaouzk.com/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 2. 激活代理
 3. 开始赚钱！
 
