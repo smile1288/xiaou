@@ -3,7 +3,7 @@ layout: home
 title: 小U折扣教程文档😊
 permalink: /
 ---
-# [点击快速注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
+# [点击快速注册](https://www.xiaouzk.com/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 
 > 欢迎使用小U折扣平台！本教程将帮助你快速上手。
 
@@ -58,7 +58,7 @@ permalink: /
 
 ## 🔗 快速入口
 
-- **注册链接**：[点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
+- **注册链接**：[点击注册](https://www.xiaouzk.com/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
 - **小U折扣官方群**：[小U折扣官方 群组](https://t.me/xiaoUzhekou)
 - **小U折扣备用群**：[小U折扣备用 群组](https://t.me/xiaoUzhekou2)
 - **微笑代理交流群**：[微笑代理交流 群组](https://t.me/smile_6688)
