@@ -41,8 +41,8 @@ layout: post
 
 | 入口 | 链接 |
 |:-----|:-----|
-| 网页端注册 | [点击注册](https://h5.xiaouzk.org/#/reg?code=7nbJWbom) |
-| 备用网址 | [备用注册](https://www.xiaouzk.org/#/reg?code=7nbJWbom) |
+| 网页端注册 | [点击注册](https://h5.xiaouzk.com/#/reg?code=7nbJWbom) |
+| 备用网址 | [备用注册](https://www.xiaouzk.com/#/reg?code=7nbJWbom) |
 
 ---
 
