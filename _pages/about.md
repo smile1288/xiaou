@@ -8,7 +8,7 @@ layout: post
 
 ## 小U折扣平台简介
 
-**小U折扣** 是一个专业的优惠充值代还平台，为用户提供安全、便捷、优惠的充值和代还服务。
+**小U折扣** 是一个优惠充值代还平台，为用户提供安全、便捷、优惠的充值和代还服务。
 
 ---
 
@@ -43,7 +43,7 @@ layout: post
 
 > ##### 💬 加入社群
 >
-> 官方交流群：[https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou)
+> 官方交流群：[https://t.me/xiaoUzhekou](https://t.me/xiaoUzhekou2)
 > 
 > 微笑交流群：[https://t.me/smile_6688](https://t.me/smile_6688)
 {: .block-tip }
