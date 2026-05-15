@@ -59,15 +59,14 @@ permalink: /
 ## 🔗 快速入口
 
 - **注册链接**：[点击注册](https://www.xiaouzk.com/#/reg?code=7nbJWbom)（邀请码：`7nbJWbom`）
-- **小U折扣官方群**：[小U折扣官方 群组](https://t.me/xiaoUzhekou)
-- **小U折扣备用群**：[小U折扣备用 群组](https://t.me/xiaoUzhekou2)
-- **微笑代理交流群**：[微笑代理交流 群组](https://t.me/smile_6688)
-- **代理上游客服**：[@smile147](https://t.me/smile147)
+- **微笑自营交流群**：[微笑代理交流 群组](https://t.me/smile_6688)
+- **小U折扣官方群**：[小U折扣官方 群组](https://t.me/xiaoUzhekou2)
+- **微笑客服**：[@smile147](https://t.me/smile147)
 - **双向机器人**：[@WX666_bot](https://t.me/WX666_bot)
 
 ---
 
 > ##### 💡 温馨提示
 >
-> 有问题请联系客服或在交流群内咨询！群里管理叫收的业务完成速度快！
+> 有问题请联系微笑或在交流群内咨询！叫收的业务完成速度快！
 {: .block-tip }
